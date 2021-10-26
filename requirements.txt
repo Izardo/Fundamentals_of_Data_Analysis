@@ -1,2 +1,6 @@
 numpy
 matplotlib
+re
+requests
+pandas
+random
