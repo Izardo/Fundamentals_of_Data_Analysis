@@ -4,3 +4,4 @@ re
 requests
 pandas
 random
+camelot
