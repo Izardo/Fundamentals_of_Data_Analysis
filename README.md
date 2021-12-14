@@ -1,5 +1,5 @@
 # Fundamentals_of_Data_Analysis
-Repository for the Fundamentals of Data Analysis module as part of the Higher Diploma in Data Analytics, GMIT. (2021)
+This repository contains the assessment for the Fundamentals of Data Analysis module as part of the Higher Diploma in Data Analytics, GMIT (2021).
 
 ## View Notebooks
 Both static and dynamic versions of the notebooks can be viewed using the buttons below. 

@@ -4,4 +4,7 @@ re
 requests
 pandas
 random
-camelot
+seaborn
+datetime
+urllib.request
+openpyxl
